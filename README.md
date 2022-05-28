@@ -7,7 +7,7 @@
 1. Clone the repository : `git clone https://github.com/JrSchmidtt/csv-to-html.gi`
 2. Install [node.js](https://nodejs.org/en/) to run 
 3. Install [Visual Studio Code](https://code.visualstudio.com/) to edit 
-4. Install [Discord.js](https://discord.js.org/#/) to run
+4. Install [body-parser](https://www.npmjs.com/package/body-parser) to run
 5. Open the powershell Terminal in Visual studio and run the command ``` npm install ``` in folder to install the dependencies
 6. Run the command ```node app.js``` in the folder with the bot
 
