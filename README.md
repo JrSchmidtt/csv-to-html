@@ -13,7 +13,7 @@
 
 ## Contributing
 
-1. [Fork the repository](https://github.com/JrSchmidtt/csv-to-html.git)!
+1. [Fork the repository](https://github.com/JrSchmidtt/csv-to-html/fork)!
 2. Clone your fork: `git clone https://github.com/JrSchmidtt/csv-to-html.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
